@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PageSizeList>
+	<PageSize>
+		<ID>US Letter</ID>
+		<Width>8.5 in</Width>
+		<Height>11 in</Height>
+	</PageSize>
+    
+    <PageSize>
+		<ID>US Legal</ID>
+		<Width>8.5 in</Width>
+		<Height>14 in</Height>
+	</PageSize>
+    
+    <PageSize>
+		<ID>A4</ID>
+		<Width>210 mm</Width>
+		<Height>297 mm</Height>
+	</PageSize>
+    
+	<PageSize>
+		<ID>A5</ID>
+		<Width>148 mm</Width>
+		<Height>210 mm</Height>
+	</PageSize>
+    
+	<PageSize>
+		<ID>JIS B5</ID>
+		<Width>182 mm</Width>
+		<Height>257 mm</Height>
+	</PageSize>
+    
+	<PageSize>
+		<ID>B5</ID>
+		<Width>176 mm</Width>
+		<Height>250 mm</Height>
+	</PageSize>
+    
+	<PageSize>
+		<ID>Tabloid</ID>
+		<Width>11 in</Width>
+		<Height>17 in</Height>
+	</PageSize>
+    
+    <PageSize>
+		<ID>A3</ID>
+		<Width>297 mm</Width>
+		<Height>420 mm</Height>
+	</PageSize>
+    
+	<PageSize>
+		<ID>4x6 in</ID>
+		<Width>4 in</Width>
+		<Height>6 in</Height>
+	</PageSize>
+
+	<PageSize>
+		<ID>Label Roll</ID>
+		<Width>0</Width>
+		<Height>0</Height>
+	</PageSize>
+</PageSizeList>
